@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.37.0
+peft>=0.7.0
+accelerate>=0.27.0
+matplotlib
+jieba
+rouge-score
+psutil
+scipy
+numpy
